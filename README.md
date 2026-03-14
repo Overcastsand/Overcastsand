@@ -1,4 +1,5 @@
 📂 who am i
+
 8th Grade Developer | Privacy Advocate | Terminal Dweller
 
 I’m an 8th grader who spends more time in the command line than on the surface web. While most people just accept the spyware, trackers, and restrictions built into school-mandated software, I prefer to take things apart.
